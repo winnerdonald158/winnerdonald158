@@ -24,8 +24,8 @@ Most of my projects focus on practical analysis, not just making charts look goo
 
 - **Project A:** Fraud Risk & Transaction Analysis Dashboard: Analyzing fraud patterns, transaction behavior, merchant risk, and financial loss trends using SQL and Power BI.
 - **Project B:** Stock Market Performance Analysis: Exploring stock price movement, trading volume, turnover trends, and market performance using financial datasets.
-- **Project C:** - Customer Churn & Behavior Analysis: Identifying customer retention patterns, engagement behavior, and churn risk factors through dashboard reporting.
--  **Project D:** - Healthcare Data Analysis: Working on healthcare datasets to analyze patient trends, treatment patterns, and operational performance insights
+- **Project C:** Customer Churn & Behavior Analysis: Identifying customer retention patterns, engagement behavior, and churn risk factors through dashboard reporting.
+-  **Project D:** Healthcare Data Analysis: Working on healthcare datasets to analyze patient trends, treatment patterns, and operational performance insights
 
 ## Technical Skillset
 
@@ -38,13 +38,13 @@ Most of my projects focus on practical analysis, not just making charts look goo
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=postgresql&logoColor=white" alt="PostgresSQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Advanced-FFFF001?style=flat&logo=powerbi&logoColor=yellow" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=green" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Apache Superset-Intermediate-00FFFF?style=flat&logo=apache superset&logoColor=white" alt="Apache Superset Skill Badge">
+  <img src="https://img.shields.io/badge/Apache%20Superset-Intermediate-00FFFF?style=flat&logo=apache superset&logoColor=white" alt="Apache Superset Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Exploratory data analysis (EDA)-Experienced-FF6B6B?style=flat" alt="Exploratory data analysis (EDA) Skill Badge">
+  <img src="https://img.shields.io/badge/Exploratory%2Fdata%20analysis (EDA)-Experienced-FF6B6B?style=flat" alt="Exploratory data analysis (EDA) Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Performance analysis%20Modeling-Intermediate-45B7D1?style=flat" alt="Performance analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Performance%20analysis-Intermediate-45B7D1?style=flat" alt="Performance analysis Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
