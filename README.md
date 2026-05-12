@@ -32,15 +32,12 @@ Most of my projects focus on practical analysis, not just making charts look goo
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
 #### Data Analysis & Visualization
-<p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-#### Data Analysis & Visualization
-<p>
-  <img src="https://shields.io" alt="SQL Skill Badge">
-  <img src="https://shields.io" alt="PostgresSQL Skill Badge">
-  <img src="https://shields.io" alt="Power BI Skill Badge">
-  <img src="https://shields.io" alt="Excel Skill Badge">
-  <img src="https://shields.io" alt="Apache Superset Skill Badge">
+<p> <!-- 💡 Go to Shields.io to create your own badges --> 
+<img src="https://img.shields.io/badge/SQL-Advanced-0000FF?style=flat&logo=ssms&logoColor=blue" alt="SQL Skill Badge">
+<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=postgresql&logoColor=white" alt="PostgresSQL Skill Badge">
+<img src="https://img.shields.io/badge/Power%20BI-Advanced-FFFF001?style=flat&logo=powerbi&logoColor=yellow" alt="Power BI Skill Badge">
+<img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=green" alt="Excel Skill Badge">
+<img src="https://img.shields.io/badge/Apache%20Superset-Intermediate-00FFFF?style=flat&logo=apachesuperset&logoColor=white" alt="Apache Superset Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
