@@ -18,7 +18,7 @@ I’m a data analyst who enjoys turning messy data into clear, useful insights. 
 Most of my projects focus on practical analysis, not just making charts look good. I like working on datasets from areas like customer behavior, healthcare, finance, and business performance analysis because they usually come with real-world problems that need clear thinking and attention to detail
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](winnerdonald158.github.io )
+### [🏆 Check Out My Full Portfolio Website]([winnerdonald158.github.io ](https://winnerdonald158.github.io/))
       
 ##  What I'm Currently Working On 
 
