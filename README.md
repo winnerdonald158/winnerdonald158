@@ -23,7 +23,7 @@ Most of my projects focus on practical analysis, not just making charts look goo
 ##  What I'm Currently Working On 
 
 - **Project A:** Fraud Risk & Transaction Analysis Dashboard: Analyzing fraud patterns, transaction behavior, merchant risk, and financial loss trends using SQL and Power BI.
-- **Project B:** Stock Market Performance Analysis: Exploring stock price movement, trading volume, turnover trends, and market performance using financial datasets.
+- **Project B:** Stock Market Performance Analysis: Exploring stock price movement, trading volume, trends, and market performance using financial datasets.
 - **Project C:** Customer Churn & Behavior Analysis: Identifying customer retention patterns, engagement behavior, and churn risk factors through dashboard reporting.
 -  **Project D:** Healthcare Data Analysis: Working on healthcare datasets to analyze patient trends, treatment patterns, and operational performance insights
 
